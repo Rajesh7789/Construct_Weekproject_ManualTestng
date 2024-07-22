@@ -30,8 +30,8 @@ Thanks to the Masai School team, all the instructors, and IA's for their support
 
 ## Contact information
 For further information or queries, please contact:
--Rajesh kumar dash
--Email - rajeshkudash007@gmail.com
+-Rajesh kumar dash  
+-Email - rajeshkudash007@gmail.com  
 -Linkedin - https://www.linkedin.com/in/rajesh-dash-76b11423b/
 
 
