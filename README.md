@@ -1,4 +1,4 @@
-# Construct_Weekproject_ManualTestng
+# Construct_Weekproject_ManualTesting
 This is a manual testing project, in which I have ensured the functionality and usability of the Opencart web application by testing it manually.
 
 ## Introduction
